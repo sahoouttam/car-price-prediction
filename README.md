@@ -10,8 +10,6 @@ This project includes:
 - Model serialization
 - Production-ready API using FastAPI
 
----
-
 ## 📌 Features
 
 ✔ Data Cleaning & Missing Value Handling  
@@ -21,6 +19,4 @@ This project includes:
 ✔ Hyperparameter Tuning (GridSearchCV)  
 ✔ Model Evaluation (R², MAE, MSE, RMSE)  
 ✔ Saved Trained Model (`joblib`)  
-✔ REST API using FastAPI  
-
-## 📂 Project Structure
+✔ REST API using FastAPI
